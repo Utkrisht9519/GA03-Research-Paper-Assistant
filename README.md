@@ -1,3 +1,6 @@
+Name: Utkrisht Agrawal
+Email ID: www.rkayush412@gmail.com
+
 📚 GA03: Research Paper Management & Analysis Intelligence System
 
 An end-to-end AI-powered research assistant that enables users to upload academic papers (PDFs) and interact with them using semantic search and Retrieval-Augmented Generation (RAG).
