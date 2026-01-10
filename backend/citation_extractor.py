@@ -8,7 +8,7 @@ def extract_references(text):
     return [r.strip() for r in refs if len(r.strip()) > 30]
 
 def save_citations(paper_id, references):
-    # ✅ Ensure data directory exists (cloud-safe)
+    # Ensure data directory exists (cloud-safe)
     os.makedirs(os.path.dirname(CITATION_DB), exist_ok=True)
 
     try:
